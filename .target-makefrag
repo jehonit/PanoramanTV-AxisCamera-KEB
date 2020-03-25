@@ -1,0 +1,2 @@
+AXIS_BUILDTYPE ?= armv7-axis-linux-gnueabi
+AXIS_OPT_DEBUG = y
